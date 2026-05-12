@@ -1,0 +1,23 @@
+table{
+    border: 1px solid black;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    border-collapse: collapse;
+    background-color: navy;
+    color: white;
+    overflow: hidden;
+}
+th,
+td{
+    border: 1px solid red;
+    padding: 10px;
+}
+img{
+    width: 10px;
+    height: 10px;
+    border: 10%;
+}
+tr:hover{
+    background-color: red;
+}
